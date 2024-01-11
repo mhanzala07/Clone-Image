@@ -1,0 +1,48 @@
+#aa{
+    text-align: center;
+    line-height: 0%
+}
+ul{
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid silver;
+    padding: 18px;
+    
+}
+#dd{
+    word-spacing: 3px;
+}
+*{
+    text-decoration: none;
+}
+.ee{
+    color:gray;
+}
+#ff{
+    color: red;
+}
+li{
+    display: inline;
+    margin-left: 35px;
+    margin-right: 35px;
+    font-size: small;
+}
+body{
+    padding-left: 450px;
+    padding-right: 450px;
+}
+#cc{
+    text-align: center;
+    width: 650px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+#dd{
+    text-align: center;
+    letter-spacing: 0.15rem;
+    word-spacing: 1rem;
+}
+body{
+    border: 4px double black;
+    font-family:https://fonts.google.com/specimen/Poppins?query=poppi;
+}
